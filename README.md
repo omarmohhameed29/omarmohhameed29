@@ -21,7 +21,7 @@
 
 <a href="https://linkedin.com/in/omar-mohamed-b17a38255" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
