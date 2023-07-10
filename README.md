@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Data Analyst who looks for new challenges to improve his skills.
 - 👨‍💻 As a Bio-Medical engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with SQL, EXCEL, Python, Power BI.
+- 💬 Ask me about my experience with SQL, EXCEL, Python, and Power BI.
 
 
 ### Connect with Me :
