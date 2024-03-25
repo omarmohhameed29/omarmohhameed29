@@ -1,38 +1,216 @@
+<div align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+</div>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
+<h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
 <h3 align="center">
-  Welcome to Omar Mohamed's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Software Engineer --> Data Engineer 👨‍💻 Studying biomedical engineering 🧬
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=bodykudo&label=Profile%20views&color=0e75b6&style=flat"
+    alt="bodykudo"
+  />
+</p>
 
-- 🏢 I'm a Software Engineer who looks for new challenges to improve his skills.
-- 👨‍💻 As a Bio-Medical engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with SQL, EXCEL, Python, and Power BI, Algorithms and DataStructures.
+- 📫 How to reach me **omarmohhameed828@gmail.com**
+- 📄 Know about my experiences: https://drive.google.com/file/d/135p4pcMkrVXlJN0PfNsrYkqQI41rVrUE/view?usp=sharing
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-mohamed%F0%9F%87%B5%F0%9F%87%B8-b17a38255/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="(https://www.linkedin.com/in/omar-mohamed%F0%9F%87%B5%F0%9F%87%B8-b17a38255/)"
+      height="30"
+      width="40"
+  /></a>
+</p>
 
-### Connect with Me :
+<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+<h3 align="left">Data Engineering:</h3>
+<p align="left">
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://spark.apache.org/images/spark-logo-trademark.png"
+      alt="Spark"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"
+      alt="Hadoop"
+      width="55"
+      height="40"
+    />
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_white_bg.png?api=v2"
+      alt="Airflow"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      alt="Bash"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
+      alt="PostgreSQL"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
+      alt="Docker"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+<h3 align="left">Backend Development:</h3>
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg"
+      alt="FastAPI"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="Postman"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/omar-mohamed-b17a38255" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=microsoft-sql-server)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-008000?style=flat&logo=google-sheets)
-![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+<h3 align="left">Data Analysis:</h3>
+<p align="left">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354127/numpy.svg"
+      alt="numpy"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png"
+      alt="Pandas"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"
+      alt="matplotlib"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.bing.com/ck/a?!&&p=bdbda08895c2e3afJmltdHM9MTcxMTMyNDgwMCZpZ3VpZD0zNDE1Y2U4OC0zNDdmLTYwNzEtMDQwZS1kYWFlMzUwMzYxNTcmaW5zaWQ9NTU0OQ&ptn=3&ver=2&hsh=3&fclid=3415ce88-347f-6071-040e-daae35036157&psq=microsoft+excel&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9taWNyb3NvZnQtMzY1L2V4Y2Vs&ntb=1" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg"
+      alt="matplotlib"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://powerbi.microsoft.com/en-us/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png"
+      alt="powerbi"
+      width="40"
+      height="40"
+    />
+  </a>
+     <a href="https://www.bing.com/ck/a?!&&p=89da68c1861c840fJmltdHM9MTcxMTMyNDgwMCZpZ3VpZD0zNDE1Y2U4OC0zNDdmLTYwNzEtMDQwZS1kYWFlMzUwMzYxNTcmaW5zaWQ9NTIxMw&ptn=3&ver=2&hsh=3&fclid=3415ce88-347f-6071-040e-daae35036157&psq=tableau&u=a1aHR0cHM6Ly93d3cudGFibGVhdS5jb20v&ntb=1" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg"
+      alt="arduino"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmohhameed29&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=omarmohhameed29&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=omarmohhameed29&style=for-the-badge">
-</a>
+<h3 align="left">Others:</h3>
+<p align="left">
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"
+      alt="qt"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+      alt="arduino"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
