@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
 <h3 align="center">
-  Software Engineer --> Data Engineer 👨‍💻 Studying biomedical engineering 🧬
+  <del>Software</del> Data Engineer 👨‍💻 Studying biomedical engineering 🧬
 </h3>
 
 <p align="left">
