@@ -29,7 +29,7 @@
   /></a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/omar_muhamed)
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages:</h3>
