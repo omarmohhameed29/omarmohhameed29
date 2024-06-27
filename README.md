@@ -17,6 +17,8 @@
 - 📫 How to reach me **omarmohhameed828@gmail.com**
 - 📄 Know about my experiences: https://drive.google.com/file/d/1Yxc6Ix9Vo4E95699OnFjOyfDSsVXwGj3/view?usp=sharing
 
+![](https://leetcard.jacoblin.cool/omar_muhamed?theme=light,unicorn)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/omar-mohamed%F0%9F%87%B5%F0%9F%87%B8-b17a38255/" target="blank"
@@ -28,8 +30,6 @@
       width="40"
   /></a>
 </p>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/omar_muhamed)
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages:</h3>
