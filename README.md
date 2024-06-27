@@ -29,6 +29,8 @@
   /></a>
 </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages:</h3>
 <p align="left">
